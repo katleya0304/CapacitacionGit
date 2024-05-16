@@ -12,6 +12,7 @@ namespace PartsUnlimited.Models
 {
     public class Product
     {
+        // prueba release
         [Required]
         [Display(Name = "Sku Number")]
         public string SkuNumber { get; set; }
